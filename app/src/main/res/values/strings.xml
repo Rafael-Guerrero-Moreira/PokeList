@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokeList</string>
+    <string name="peso">peso</string>
+    <string name="numero">numero</string>
+    <string name="altura">altura</string>
+    <string name="todo">TODO</string>
+    <string name="nombre">nombre</string>
+</resources>
